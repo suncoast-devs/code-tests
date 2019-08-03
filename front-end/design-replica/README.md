@@ -1,15 +1,15 @@
-##### Title: Design Replica
+# Title: Design Replica
 
-#### Requirements:
+## Requirements:
 
 - Create a webpage using HTML and CSS that matches this design.
 
-#### Bonuses:
+## Bonuses:
 
 - Make the page design responsive
 - Add parallax scrolling for the Our Services section
 
-#### Additional Information:
+## Additional Information:
 
 - All images used in this project can be found in the images folder
 
