@@ -8,6 +8,7 @@ Title: What are you calling this challenge?
 
 Requirements:
 What requirements/tasks do the code tester need to meet/complete?
+Does this need to be built using a specific language?
 
 Bonuses:
 Is there something the code tester can do to go above and beyond the minimum requirement?
