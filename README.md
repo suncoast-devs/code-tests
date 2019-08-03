@@ -1,6 +1,7 @@
 # code-tests
 
-This repo is sharing "Take Home" styled code tests among SDG Alums
+- This repo is sharing "Take Home" styled code tests among SDG Alums.
+- You can use code test that you have taken as inspiration but please do NOT submit an exact copy of a code test you have taken when interviewing for a position.
 
 ## Standard Formatting for Challenges
 
