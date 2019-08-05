@@ -4,6 +4,19 @@
 
 - Create a webpage using HTML and CSS that matches this design.
 
+### Styling Guidelines:
+
+- Use the "Roboto" Google font
+
+Use the following colors
+
+- Header background: #171717
+- Grey background: #E5E5E5
+- Blue: #365891
+- Green: #647D69
+- Grey: #667D89
+- Contact Form background: rgba(102, 125, 137, 0.45)
+
 ## Bonuses:
 
 - Make the page design responsive
