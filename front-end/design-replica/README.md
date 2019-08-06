@@ -3,6 +3,8 @@
 ## Requirements:
 
 - Create a webpage using HTML and CSS that matches this design.
+- The Navigation should stay at the top of the page as you scroll
+- Suggested Completion Time: 24 hrs
 
 ### Styling Guidelines:
 
