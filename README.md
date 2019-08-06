@@ -21,9 +21,10 @@ In general, we follow this workflow:
 2. Clone the project to your own machine.
 3. Create a folder under one of the categories
 4. Create a README file that describes what needs to be done to complete the test (See Standard Formatting for Challenges)
-5. Commit changes to your own branch.
-6. Push your work back up to your fork.
-7. Submit a Pull Request so that we can review your changes.
+5. Create a link in the "Category" README to link to your test
+6. Commit changes to your own branch.
+7. Push your work back up to your fork.
+8. Submit a Pull Request so that we can review your changes.
 
 - **NOTE**: Be sure to merge the latest from upstream before making a Pull Request.
 
