@@ -13,7 +13,7 @@
 
 ## Contributing Tests
 
-Note: You can use code test that you have taken as inspiration but please do NOT submit an exact copy of a code test you have taken when interviewing for a position.
+**Note:** You can use code test that you have taken as inspiration but please do NOT submit an exact copy of a code test you have taken when interviewing for a position.
 
 In general, we follow this workflow:
 
@@ -25,7 +25,7 @@ In general, we follow this workflow:
 6. Push your work back up to your fork.
 7. Submit a Pull Request so that we can review your changes.
 
-- NOTE: Be sure to merge the latest from upstream before making a Pull Request.
+- **NOTE**: Be sure to merge the latest from upstream before making a Pull Request.
 
 ### Standard Formatting for Challenges
 
@@ -36,6 +36,7 @@ In general, we follow this workflow:
 - What requirements/tasks do the code tester need to meet/complete?
 - Does this need to be built using a specific language?
 - Specify suggested completion time
+- If the tester needs to match a specific layout please add a .jpg or .png of the image to your files for reference.
 
 #### Bonuses:
 
@@ -44,8 +45,6 @@ In general, we follow this workflow:
 #### Additional Information:
 
 - This might be specific fonts or required colors that you want to supply as part of this challenge.
-
-Note: If the tester needs to match a specific layout please add a .jpg or .png of the image to your files for reference.
 
 ## Challenges
 
