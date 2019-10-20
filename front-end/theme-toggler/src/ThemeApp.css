@@ -1,0 +1,13 @@
+/* DEFAULT THEME STYLES */
+.App{
+  padding: 20px;
+  background-color: white;
+  color: black;
+  height: 100vh;
+}
+
+/* DARK THEME STYLES */
+.App.dark {
+  background-color: black;
+  color: white;
+}
