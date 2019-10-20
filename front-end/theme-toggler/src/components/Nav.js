@@ -7,11 +7,9 @@ export default class Nav extends Component {
     static contextType = ThemeContext;
 
   render() {
-    const {isLightTheme, toggleTheme} = this.context;
-    const theme = isLightTheme ? '' : 'dark';
 
     return (
-        <nav className={theme}>
+        <nav>
             <div className='nav-links'>
                 <li>
                     <NavLink exact activeClassName='active' to='/'>Home</NavLink>
@@ -20,7 +18,7 @@ export default class Nav extends Component {
                     <NavLink activeClassName='active' to='/about'>About</NavLink>
                 </li>
             </div>
-            <button onClick={toggleTheme}>Toggle Theme</button>
+            <button>Toggle Theme</button>
         </nav>
     )
   }

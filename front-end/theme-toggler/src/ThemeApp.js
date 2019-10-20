@@ -11,13 +11,11 @@ export default class ThemeApp extends Component {
   static contextType = ThemeContext;
 
   render() {
-    const {isLightTheme} = this.context;
-    const theme = isLightTheme ? '' : 'dark';
 
     return(
         <main>
           <Nav/>
-          <section className={"App" + " " + theme}>
+          <section className={"App"}>
                 <Switch>
                   <Route exact path='/' component={Home} />
                   <Route path='/about' component={About}/>
