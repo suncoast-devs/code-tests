@@ -1,0 +1,61 @@
+/* DEFAULT THEME STYLES */
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eee;
+  padding: 20px 0px;
+}
+
+nav > .nav-links {
+  display: inline-flex;
+}
+  
+nav > .nav-links > li {
+  padding: 10px;
+  list-style: none;
+  font-size: 20px;
+}
+  
+a:visited {
+  color: black;
+}
+
+a:focus, .active {
+  font-weight: bold;
+}
+
+a.active {
+  color: teal;
+  text-decoration: none;
+}
+  
+button {
+  float: right;
+  font-size: 16px;
+  padding: 8px 16px;
+  background-color: darkblue;
+  color: white;
+  margin-right: 20px;
+}
+
+
+/* DARK THEME STYLES */
+
+nav.dark {
+  background-color: #333;
+}
+
+nav.dark a {
+  color: white;
+}
+
+nav.dark a.active {
+  color: orange;
+}
+
+nav.dark button {
+  background-color: #F3C354;
+  color: black;
+}
+  
